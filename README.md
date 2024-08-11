@@ -47,7 +47,7 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 </p>
 
 ## Achievements
-.
+Nptel certificate - BIG DATA
 
 ## Contact
 
