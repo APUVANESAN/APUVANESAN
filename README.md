@@ -6,9 +6,9 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 
 ## Skills and Technologies
 
-- Web Development: -HTML , CSS , JavaScript (JS).
+- Web Development: -HTML , CSS .
 - Programming Languages: - Java , C , Python.
-- Other Tools: - Git , GitHub, Visual Studio Code (VS Code).
+- Other Tools: -  GitHub,Ms-Excel.
   
 ## Known Languages
 <p align="left">
@@ -21,7 +21,7 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 </p>
 
 ## Github Stats
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kirubs11&theme=vision-friendly-dark&hide_border=false" alt="Kirubs11" />.
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=APUVANESAN&theme=vision-friendly-dark&hide_border=false" alt="APUVANESAN" />.
 
 ### Other Skills
 
