@@ -21,7 +21,7 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 </p>
 
 ## Github Stats
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=APUVANESAN&theme=vision-friendly-dark&hide_border=false" alt="APUVANESAN" />.
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arulkumar046&theme=vision-friendly-dark&hide_border=false" alt="Arulkumar046" />.
 
 ### Other Skills
 
